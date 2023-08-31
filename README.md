@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo realizar una una herramienta flexible y potent
 
 - Utiliza el lenguaje de programación **Python** para una curva de aprendizaje más suave y una comunidad activa de desarrollo.
 
-- Proporciona funciones y utilidades para **limpiar, procesar y transformar datos** en formatos comunes.
+- Proporciona funciones y utilidades para **extraer, transformar y cargar datos** en formatos comunes.
 
 - Integra los modelos de analisis descriptivo, regresion lineal, clusterizacion, series de tiempo (ARIMA) y redes neuronales recurrentes (LSTM).
 
