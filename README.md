@@ -1,16 +1,16 @@
 # Plataforma basada en Python para Transformación e Integración de Datos Abiertos
 
-Bienvenido al repositorio de la **Plataforma basada en Python para Transformación e Integración de Datos Abiertos**. Esta plataforma está diseñada para facilitar la transformación, integración y análisis de datos abiertos (open data) relacionados con servicios de análisis y visualización. 
+Bienvenido al repositorio de la **Plataforma basada en Python para Transformación e Integración de Datos Abiertos**. Esta plataforma está diseñada para realizar la transformación, integración y análisis de datos basado en Machine Learning sobre fuentes de datos abiertas (open data) con servicio de visualización. 
 
 ## Descripción
 
-Este proyecto tiene como objetivo proporcionar a los desarrolladores una herramienta flexible y potente para trabajar con datos abiertos provenientes de diversas fuentes. La plataforma está construida utilizando el lenguaje de programación Python y ofrece una serie de características clave:
+Este proyecto tiene como objetivo realizar una una herramienta flexible y potente para trabajar con fuentes de datos abiertas provenientes de diversas fuentes. La plataforma está construida utilizando el lenguaje de programación Python y ofrece una serie de características clave:
 
-- Transformación de datos: Capacidades para limpiar, reorganizar y enriquecer conjuntos de datos abiertos, preparándolos para su análisis posterior.
+- ETL: Capacidades para limpiar, reorganizar y enriquecer conjuntos de datos abiertos, preparándolos para su análisis posterior.
 
-- Integración de datos: Permite combinar datos de diferentes fuentes en un único repositorio, lo que facilita su acceso y análisis unificado.
+- Analisis de datos: Proporciona una serie de herramientas de analisis a través de unas bibliotecas. Proporciona un analisis descriptivo, exploratorio y de predicción.
 
-- Análisis y Visualización: Proporciona herramientas y bibliotecas para realizar análisis estadísticos y crear visualizaciones informativas a partir de los datos transformados.
+- Visualización: A partir de los resultados obtenidos, se visualizan a través de la aplicacón PowerBi.
 
 ## Características Principales
 
@@ -18,9 +18,9 @@ Este proyecto tiene como objetivo proporcionar a los desarrolladores una herrami
 
 - Proporciona funciones y utilidades para **limpiar, procesar y transformar datos** en formatos comunes.
 
-- Integra bibliotecas de análisis de datos como **Pandas** y **NumPy** para realizar cálculos y análisis avanzados.
+- Integra los modelos de analisis descriptivo, regresion lineal, clusterizacion, series de tiempo (ARIMA) y redes neuronales recurrentes (LSTM).
 
-- Ofrece opciones para la **visualización de datos** utilizando bibliotecas como **Matplotlib** y **Seaborn**.
+- Ofrece opciones para la **visualización de datos** utilizando  **PowerBi**.
 
 ## Cómo Contribuir
 
@@ -35,6 +35,8 @@ Este proyecto tiene como objetivo proporcionar a los desarrolladores una herrami
 ## Requisitos del Entorno
 
 - Python posterior a 3.0.
+- PowerBi desktop.
+- Bibliotecas (Pandas, Fitz, XlsxWriter, NumPy, Datatime, Camelot, StatsModels, Scikit-Learn, SciPy, MatPlotLib, TensorFlow,	Pdarima)
 
 ## Instalación y Uso
 
@@ -45,5 +47,5 @@ Este proyecto tiene como objetivo proporcionar a los desarrolladores una herrami
 
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nosotros en marcos.navarroj@edu.uah.es.
 
----
+----------------------------------------
 
