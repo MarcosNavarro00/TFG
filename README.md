@@ -43,7 +43,7 @@ Este proyecto tiene como objetivo proporcionar a los desarrolladores una herrami
 
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nosotros en [tu dirección de correo electrónico].
+Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nosotros en marcos.navarroj@edu.uah.es.
 
 ---
 
