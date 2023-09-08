@@ -45,7 +45,7 @@ Este proyecto tiene como objetivo realizar una una herramienta flexible y potent
 
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nosotros en marcos.navarroj@edu.uah.es.
+Si tienes preguntas o comentarios, no dudes en ponerte en contacto conmigo a través de marcos.navarroj@edu.uah.es.
 
 ----------------------------------------
 
