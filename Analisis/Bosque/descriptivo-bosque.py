@@ -78,7 +78,7 @@ def exportar_a_Excel(data):
     print(df)
 
     # Crear un archivo de Excel
-    #df.to_excel('descriptiva-bosque.xlsx', index=False)
+    df.to_excel('descriptiva-bosque.xlsx', index=False)
 
 
 
@@ -91,7 +91,7 @@ data = pd.read_excel('ETL\Data\dataBosque.xlsx')
 #print(data.head())
 #print(data.info())
 
-data = transformacion(data)
+#data = transformacion(data)
 
 estadisticas_cantidad(data,'Cantidad' )
 estadisticas_cantidad(data,'Captación Contaminación (Kg/Año)' )

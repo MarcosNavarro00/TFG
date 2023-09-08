@@ -21,8 +21,8 @@ def preparacion():
     selected_data.dropna(inplace=True)
 
     # Convierte las columnas "Agua Interceptada (M3/Año)" y "Captación Contaminación (Kg/Año)"  de texto a float
-    selected_data['Agua Interceptada (M3/Año)'] = selected_data['Agua Interceptada (M3/Año)'].apply(lambda x: float(x.replace(',', '')))
-    selected_data['Captación Contaminación (Kg/Año)'] = selected_data['Captación Contaminación (Kg/Año)'].apply(lambda x: float(x.replace(',', '')))
+    #selected_data['Agua Interceptada (M3/Año)'] = selected_data['Agua Interceptada (M3/Año)'].apply(lambda x: float(x))
+    #selected_data['Captación Contaminación (Kg/Año)'] = selected_data['Captación Contaminación (Kg/Año)'].apply(lambda x: float(x))
 
     # Asignar un número único a cada especie
     selected_data['Especie ID'] = pd.factorize(selected_data['Especie'])[0]
